@@ -20,6 +20,10 @@ div#tableRow {
 	display: table-row;
 }
 
+#slogan {
+	float: right;
+}
+
 #drinks {
 	background-color: #efe5d0;
 	display: table-cell;
